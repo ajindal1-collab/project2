@@ -2,6 +2,11 @@
 
 ![deep-learning.jpg](Images/lendingclub.png)
 
+# To download raw data, please go to this Google drive below:
+Loan population from 2014 to 2016: https://drive.google.com/file/d/1WbID6futdxU1FwPbFs6qQBbEgJE8Ttkx/view?usp=sharing
+Matured/serviced loan for training: https://drive.google.com/file/d/1eZJ-ffFf03LiqsG1PEzLAqzhmNkrbY19/view?usp=sharing
+
+
 # Background
 
 Built in 2007, [LendingClub](https://www.lendingclub.com) is the largest peer-to-peer lender that uses online services the practic lending money to individuals (or small business) matching anonymous lenders with borrowers. , as of March 2020, \\$59.29 billion in loans had been originated through its platform. 
