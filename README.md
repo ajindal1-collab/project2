@@ -1,4 +1,4 @@
-# Factors associated with high likelyhood of full payment loan  : A Case Study with LendingClub Data
+# Machine Learning Application on P2P Loan: Predicting Good and Bad loan in Lending Club Data and Apply Expected Investment Return
 
 ![deep-learning.jpg](Images/lendingclub.png)
 
