@@ -105,8 +105,8 @@ Most of the loans were Grade B and C. This two group was about 58\% of overall l
 
 The following graph shows the realtionship between different subgroups and average interest rate as well as percentage of defaults. The "safest" loan are less risky, therefore it offers lower interest rate and it has low default percentage. 
 
-![default2.jpg](Images/subgradevsdefault.png)
 
+(Images/subgradevsdefault.png)
 
 ### Classification
 
