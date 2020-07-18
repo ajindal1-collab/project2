@@ -286,3 +286,20 @@ The following table summarizes the evaulation performance of different models in
 |  Neural Network  |   0.68  |   0.81    | 0.87  |   
 
 Neural Network would be preferable model compared to other models used. 
+
+## Return calculation after applying Random Forest Screening
+
+For every loan in the given dataset, we calculated annualized return on investment
+From here, we grouped by “Good Loan” and “Defaulted Loan” and able to calculate the expected return of each Good and Defaulted loan at sub_grade level
+
+Utilizing Random Forest Classifier that we applied at sub_grade level and selecting to 10th percentile probability, we were able to get the precision or probability of predicting good loan P(good loan)
+
+With the given probability above, we can calculate the new expected return at sub_grade level:
+
+*Expected Return = P(good loan)  * Rgood + P(defaulted) * Rdefaulted 
+
+see the chart below
+
+![return improvement chart](return improvement.png)
+
+
