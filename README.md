@@ -296,7 +296,7 @@ Utilizing Random Forest Classifier that we applied at sub_grade level and select
 
 With the given probability above, we can calculate the new expected return at sub_grade level:
 
-*Expected Return = P(good loan)  * Rgood + P(defaulted) * Rdefaulted 
+Expected Return = P(good loan)  * Rgood + P(defaulted) * Rdefaulted 
 
 see the chart below
 
@@ -305,7 +305,9 @@ see the chart below
 
 
 For both low and high range return, the new expected returns are higher 
+
 Looking at C1 sub grade, the low range return increased to 3.4% from 2.4% and high range return to 6.5% from 5.3% after taking top 10% probability of good loan
+
 At lower grades (F1 to G5) we started to see model instability, likely due to sparse data availability for training and testing
 
 
