@@ -300,6 +300,6 @@ With the given probability above, we can calculate the new expected return at su
 
 see the chart below
 
-![return improvement chart](return improvement.png)
+![return improvement chart](return_improvement.png)
 
 
